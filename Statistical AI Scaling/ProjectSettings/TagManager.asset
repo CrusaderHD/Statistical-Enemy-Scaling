@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ExpOrb
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Player
+  - Interaction Objects
+  - Enemies
+  - Traps
+  - Background
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 3588876507
+    locked: 0
+  - name: Background
+    uniqueID: 2904752597
+    locked: 0
+  - name: Foreground
+    uniqueID: 2140363389
+    locked: 0
+  - name: Player
+    uniqueID: 1241781737
+    locked: 0
